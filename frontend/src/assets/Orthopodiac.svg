@@ -1,0 +1,23 @@
+<svg width="126" height="126" viewBox="0 0 126 126" xmlns="http://www.w3.org/2000/svg">
+  <!-- Circle background -->
+  <circle cx="63.1684" cy="62.8325" r="62.8325" fill="url(#paint0_linear_orthopedic)" />
+  
+  <!-- Orthopedic Bone Design (Stylized Bone with Joint) -->
+  <g transform="translate(40, 25)">
+    <!-- Upper Bone (Femur) -->
+    <rect x="10" y="0" width="12" height="35" rx="6" fill="white"/>
+    
+    <!-- Knee Joint -->
+    <circle cx="16" cy="35" r="8" fill="white" />
+    
+    <!-- Lower Bone (Tibia) -->
+    <rect x="10" y="43" width="12" height="35" rx="6" fill="white"/>
+  </g>
+
+  <defs>
+    <linearGradient id="paint0_linear_orthopedic" x1="63.1684" y1="0" x2="63.1684" y2="125.665" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#AFC1DC" />
+      <stop offset="1" stop-color="#E2E5ED" />
+    </linearGradient>
+  </defs>
+</svg>

@@ -1,0 +1,24 @@
+<svg width="126" height="126" viewBox="0 0 126 126" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <circle cx="63" cy="63" r="63" fill="url(#paint0_linear)"/>
+
+  <!-- Larger, properly shaped tooth -->
+  <path 
+    d="M48 58 
+       C47 48, 57 42, 63 42 
+       C69 42, 79 48, 78 58 
+       C77 68, 74 84, 70 84 
+       C66 84, 65 75, 63 70 
+       C61 75, 60 84, 56 84 
+       C52 84, 49 68, 48 58Z"
+    fill="white"
+    stroke="#577CFF"
+    stroke-width="2"
+  />
+
+  <defs>
+    <linearGradient id="paint0_linear" x1="63" y1="0" x2="63" y2="126" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#AFC1DC"/>
+      <stop offset="1" stop-color="#E2E5ED"/>
+    </linearGradient>
+  </defs>
+</svg>
